@@ -2,7 +2,7 @@
 Performs Code Summarization, Bug Detection, Bug Removal using different Natural language processing models including Garph CodeBERT,  GREAT, GNN, CoText etc.
 
 ---
-The python notebooks are reusable and have dataset and pre-trained model links. Following is the list of models used and their respective tasks performed.
+The python notebooks have dataset and pre-trained model links. Following is the list of models used and their respective tasks performed.
 
 
 | Models        | Task          | Result |
