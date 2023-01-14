@@ -6,7 +6,7 @@ The python notebooks are reusable and have dataset and pre-trained model links. 
 
 
 | Models        | Task          | Result |
-| ------------- |:-------------:| ------:|
+| ------------- |-------------|------|
 | Code2Seq      | Code Summarization | Precision: 0.6  |
 | Code2Vec      | Method Name Prediction      |   Precision: 0.49  |
 | GraphCodeBERT | Clone Detection      |    Blue score: 53.62  |
